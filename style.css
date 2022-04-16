@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(158, 141, 158);
+    color: white;
+}
+#search {
+    font-size: 24px;
+    padding: 10px 10px;
+    margin-right: 16px;
+    border-radius: 6px;
+    outline:none;
+
+}
+button {
+    font-size: 18px;
+    margin-top: 24px;
+    margin-right: 24px;
+    padding: 12px 24px;
+
+
+}
+header > section > ul > li {
+    border-style: solid;
+    border-width: 1px;
+
+}
